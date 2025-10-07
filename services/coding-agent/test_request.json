@@ -1,0 +1,11 @@
+{
+  "query": "Create a simple histogram of ages",
+  "context": {
+    "notebook_id": "test_nb",
+    "session_id": "test_session",
+    "variables": {
+      "df": "DataFrame"
+    },
+    "cell_count": 1
+  }
+}

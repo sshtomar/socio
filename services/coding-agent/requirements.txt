@@ -1,0 +1,26 @@
+# Core dependencies
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.0
+pydantic-settings==2.5.2
+
+# Claude Agent SDK
+claude-agent-sdk==0.1.1
+anthropic==0.39.0
+
+# Async support
+anyio==4.6.0
+httpx==0.27.0
+
+# WebSocket
+python-multipart==0.0.12
+websockets==13.1
+
+# Environment
+python-dotenv==1.0.1
+
+# Development
+pytest==8.3.0
+pytest-asyncio==0.24.0
+black==24.10.0
+ruff==0.7.0
